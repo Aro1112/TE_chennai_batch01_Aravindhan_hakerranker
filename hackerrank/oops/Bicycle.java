@@ -1,4 +1,4 @@
-package com.tecno.hackerrank.oops;
+package com.te.assignments.hackerrank.oops;
 
 class Bicycle {
 

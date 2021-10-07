@@ -1,4 +1,4 @@
-package com.tecno.hackerrank;
+package com.te.assignmets.hackerrank;
 
 import java.util.Arrays;
 

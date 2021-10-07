@@ -1,4 +1,4 @@
-package com.tecno.hackerrank;
+package com.te.assignmets.hackerrank;
 
 public class Looping {
 	public static void main(String[] args) {
